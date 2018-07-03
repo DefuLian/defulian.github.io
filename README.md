@@ -44,7 +44,7 @@
  |中央高校基本科研业务费|ZYGX2015KYQD018|	 移动社交网络的地点个性化推荐研究|	 2015.01 - 2016.12|	   14万|	 主持
  
  
- ## 论文发表
+## 论文发表
  
 1.   **Defu Lian** and Qi Liu. Jointly Recommending Library Books and Predicting Academic Performance: A Mutual Reinforcement Perspective. Journal of Computer Science and Technology. Accepted.
 1.   Steven Mudda, **Defu Lian**, Silvia Giordano, Danyang Liu and Xing Xie. Spatial-Aware Deep Recommender System. The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018), Guangzhou, China. October, 2018
