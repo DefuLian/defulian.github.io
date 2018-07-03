@@ -43,7 +43,7 @@
  
  ## 论文发表
 1.   **Defu Lian** and Qi Liu. Jointly Recommending Library Books and Predicting Academic Performance: A Mutual Reinforcement Perspective. Journal of Computer Science and Technology. Accepted.
-1.   Steven Mudda, **Defu Lian**, Silvia Giordano, Danyang Liu and Xing Xie. Spatial-Aware Deep Recommender System. The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018)
+1.   Steven Mudda, **Defu Lian**, Silvia Giordano, Danyang Liu and Xing Xie. Spatial-Aware Deep Recommender System. The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018), Guangzhou, China. October, 2018
 1.   **Defu Lian**, Kai Zheng, Vincent W. Zheng, Yong Ge, Longbing Cao, Ivor W. Tsang and Xing Xie. High-order Proximity Preserving Information Network Hashing. The 24rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom. August, 2018
 2.   Yan Zhang, Haoyu Wang, **Defu Lian***, Ivor W. Tsang, Hongzhi Yin and Guowu Yang. Discrete Ranking-based Matrix Factorization with Self-Paced Learning. The 24rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, August, 2018
 3.   Qinyong Wang, Hongzhi Yin, Zhiting Hu, **Defu Lian**, Hao Wang and Zi Huang. Neural Memory Streaming Recommender Networks with Adversarial Training. The 24rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, August, 2018
