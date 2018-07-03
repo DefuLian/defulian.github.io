@@ -21,15 +21,18 @@
 | 微软亚洲研究院	| 移动与本地搜索组	| 2009.02 - 2009.08	| 访问学生
 
 ## 教育经历
+
 |    大学    | 学院 | 时间 | 学位  | 导师 
 | :---------- | :--- | :------ | :---- | :---- 
 | 中国科学技术大学|	 教育部-微软重点实验室|	 2009.09 - 2014.06	 |工学博士|	谢幸博士与陈恩红教授
 | 中国科学技术大学|	 计算机科学与技术学院|	 2005.09 - 2009.06	 |工学学士|	谢幸博士
 
 ## 研究兴趣
+
 推荐系统、空间数据挖掘、深度学习、教育数据挖掘、机器学习及其应用。
 
 ## 科研项目
+
  |项目来源|	 项目编号|	 项目名称|	 起止时间|	 总经费|	 角色
  | :---------- | :--- | :------ | :---- | :------ | :------ 
  |国家自然科学基金|	 61772118|	 眼底图像分析中的迁移学习算法和应用研究|	 2018.01 - 2021.12|	   63万|	 主研 (6)
@@ -42,6 +45,7 @@
  
  
  ## 论文发表
+ 
 1.   **Defu Lian** and Qi Liu. Jointly Recommending Library Books and Predicting Academic Performance: A Mutual Reinforcement Perspective. Journal of Computer Science and Technology. Accepted.
 1.   Steven Mudda, **Defu Lian**, Silvia Giordano, Danyang Liu and Xing Xie. Spatial-Aware Deep Recommender System. The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018), Guangzhou, China. October, 2018
 1.   **Defu Lian**, Kai Zheng, Vincent W. Zheng, Yong Ge, Longbing Cao, Ivor W. Tsang and Xing Xie. High-order Proximity Preserving Information Network Hashing. The 24rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom. August, 2018
