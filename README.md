@@ -1,5 +1,5 @@
 
-## 个人简介
+### 个人简介
 **连德富** 副教授
 
 电子科技大学 计算机科学与工程学院
@@ -7,7 +7,7 @@
 电子邮箱：dove.ustc@gmail.com
 
 
-## 学术经历
+### 学术经历
 
 |    单位    | 学院/中心/组 | 时间 | 职务 
 | :---------- | :--- | :------ | :---- 
@@ -20,18 +20,18 @@
 | 微软亚洲研究院	| 社交与城市计算组	| 2010.09 - 2013.08	| 访问学生
 | 微软亚洲研究院	| 移动与本地搜索组	| 2009.02 - 2009.08	| 访问学生
 
-## 教育经历
+### 教育经历
 
 |    大学    | 学院 | 时间 | 学位  | 导师 
 | :---------- | :--- | :------ | :---- | :---- 
 | 中国科学技术大学|	 教育部-微软重点实验室|	 2009.09 - 2014.06	 |工学博士|	谢幸博士与陈恩红教授
 | 中国科学技术大学|	 计算机科学与技术学院|	 2005.09 - 2009.06	 |工学学士|	谢幸博士
 
-## 研究兴趣
+### 研究兴趣
 
 推荐系统、空间数据挖掘、深度学习、教育数据挖掘、机器学习及其应用。
 
-## 科研项目
+### 科研项目
 
  |项目来源|	 项目编号|	 项目名称|	 起止时间|	 总经费|	 角色
  | :---------- | :--- | :------ | :---- | :------ | :------ 
@@ -44,7 +44,7 @@
  |中央高校基本科研业务费|ZYGX2015KYQD018|	 移动社交网络的地点个性化推荐研究|	 2015.01 - 2016.12|	   14万|	 主持
  
  
-## 论文发表
+### 论文发表
  
 1.   **Defu Lian** and Qi Liu. Jointly Recommending Library Books and Predicting Academic Performance: A Mutual Reinforcement Perspective. Journal of Computer Science and Technology. Accepted.
 1.   Steven Mudda, **Defu Lian**, Silvia Giordano, Danyang Liu and Xing Xie. Spatial-Aware Deep Recommender System. The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018), Guangzhou, China. October, 2018
